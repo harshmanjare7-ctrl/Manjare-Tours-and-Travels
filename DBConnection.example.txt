@@ -1,0 +1,8 @@
+Database connection template
+
+Database: manjare_tours
+URL: jdbc:mysql://localhost:3306/manjare_tours
+
+Configure your own database username and password
+using environment variables before running the project.
+Never commit real database credentials.
